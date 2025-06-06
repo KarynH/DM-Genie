@@ -1,4 +1,4 @@
-# 💬 DM Genie – AI Career Whisperer
+# 💬 DM Genie – AI DM Genie
 
 DM Genie is an AI-powered assistant designed to help job seekers craft personalized LinkedIn messages, summarize job descriptions, and improve their resumes in seconds.
 
